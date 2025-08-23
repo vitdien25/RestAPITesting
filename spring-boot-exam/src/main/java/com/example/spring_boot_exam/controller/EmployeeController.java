@@ -28,6 +28,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 @RequestMapping("/api/employees")
 @RequiredArgsConstructor
 @CrossOrigin(origins = "http://localhost:5173")
+// @CrossOrigin(origins = "https://rest-api-testing-seven.vercel.app/")
 public class EmployeeController {
     private final EmployeeService employeeService;
 
