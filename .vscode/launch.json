@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootExamApplication<spring-boot-exam>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.spring_boot_exam.SpringBootExamApplication",
+            "projectName": "spring-boot-exam",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
